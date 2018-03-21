@@ -25,12 +25,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (start_date to end_date)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Curious and passionate about code. [PROVIDE EVIDENCE]
+- Fast, independent learner [PROVIDE EVIDENCE]
+- Great collaborator [PROVIDE EVIDENCE]
+
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Rails, JavaScript
+- RSpec, Jasmine
 
 #### Your University / College (start_date to end_date)
 
